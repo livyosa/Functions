@@ -1,0 +1,8 @@
+const functionName = () => {};
+// zero parameters uses parentheses
+
+const functionName = paramOne => {};
+// one parameter
+
+const functionName = (paramOne, paramTwo) => {};
+// two or more parameters
